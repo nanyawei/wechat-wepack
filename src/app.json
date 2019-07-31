@@ -5,5 +5,17 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "wechat-mina-template",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/authorize/authorize",
+        "text": "授权"
+      }
+    ]
   }
 }

@@ -1,10 +1,10 @@
 /**
  * @desc http server
- * @author simbawu
- * @date 2018-08-06
+ * *
+ * *
  */
 
-import {toast, alert} from './util.js';
+import { toast, alert } from './util.js';
 
 const DEFAULT_REQUEST_OPTIONS = {
   url: '',
@@ -19,7 +19,7 @@ const DEFAULT_REQUEST_OPTIONS = {
 
 function httpServer(opt) {
   let options = Object.assign({}, DEFAULT_REQUEST_OPTIONS, opt);
-  let {url, data, header, method, dataType} = options;
+  let { url, data, header, method, dataType } = options;
   let timer = null;
   timer = setTimeout(() => {
     toast('加载中...', 1500, 'loading');

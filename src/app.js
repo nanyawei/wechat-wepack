@@ -1,7 +1,7 @@
 /**
  * @desc app.js
- * @author simbawu
- * @date 2018-08-06
+ * *
+ * *
  */
 
 import './utils/to-promise.js';

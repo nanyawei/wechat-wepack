@@ -1,10 +1,10 @@
 /**
  * @desc request api
- * @author simbawu
- * @date 2018-08-06
+ * *
+ * *
  */
 
-import {mainHost} from '../config/env-config.js';
+import { mainHost } from '../config/env-config.js';
 import httpServer from './http-server.js';
 
 // 获取token

@@ -1,12 +1,12 @@
 /**
  * @desc login modules
- * @author simbawu
- * @date 2018-08-06
+ * *
+ * *
  */
 
 const app = getApp();
-import {getToken, getTokenSilent} from './request.js';
-import {appKey} from '../config/config.js';
+import { getToken, getTokenSilent } from './request.js';
+import { appKey } from '../config/config.js';
 
 function login(callBack, userData) {
   if (!app.globalData.token) {

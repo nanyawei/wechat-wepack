@@ -72,8 +72,8 @@ module.exports = {
     new CopyWebpackPlugin(
       [
         {
-          from: '',
-          to: '',
+          from: '**/*',
+          to: './',
           test: /^(pages|app|components)[-a-z0-9_./]*\.(wxml|json|js)$/
         }
       ],

@@ -1,7 +1,7 @@
 /**
  * @desc extend & Promise api
- * @author simbawu
- * @date 2018-08-06
+ * *
+ * *
  */
 
 let wxKeys = [
