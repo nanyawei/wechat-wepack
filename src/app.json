@@ -1,5 +1,9 @@
 {
-  "pages": ["pages/index/index", "pages/authorize/authorize"],
+  "pages": [
+    "pages/index/index",
+    "pages/authorize/authorize",
+    "pages/user/user"
+  ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
@@ -15,6 +19,10 @@
       {
         "pagePath": "pages/authorize/authorize",
         "text": "授权"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户"
       }
     ]
   }
