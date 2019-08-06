@@ -1,29 +1,12 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/authorize/authorize",
-    "pages/user/user"
+    "pages/authorize/authorize"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "wechat-mina-template",
+    "navigationBarTitleText": "console",
     "navigationBarTextStyle": "black"
-  },
-  "tabBar": {
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "首页"
-      },
-      {
-        "pagePath": "pages/authorize/authorize",
-        "text": "授权"
-      },
-      {
-        "pagePath": "pages/user/user",
-        "text": "用户"
-      }
-    ]
   }
 }

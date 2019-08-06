@@ -28,7 +28,7 @@ const relativeFileLoader = (ext = '[ext]') => {
 module.exports = {
   entry: entryList,
   output: {
-    path: path.resolve('dist'),
+    path: path.resolve('console-weapp'),
     filename: '[name]'
   },
   module: {

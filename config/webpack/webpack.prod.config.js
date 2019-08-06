@@ -16,7 +16,7 @@ module.exports = {
     ]
   },
   plugins: [
-    new CleanWebpackPlugin(['dist'], {
+    new CleanWebpackPlugin(['console-weapp'], {
       root: path.resolve(__dirname, '../../'),
       verbose: true,
       exclude: ['project.config.json']

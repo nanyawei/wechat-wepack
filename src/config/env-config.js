@@ -36,11 +36,11 @@ const env = getEnv();
 const envConfig = {
   production: {
     // 项目接口域名
-    mainHost: 'https://github.com/BooheeFE/'
+    mainHost: 'https://github.com/nanyawei/'
   },
   qa: {
     // 项目接口域名
-    mainHost: 'https://github.com/BooheeFE/'
+    mainHost: 'https://douban-api.uieee.com/'
   }
 };
 

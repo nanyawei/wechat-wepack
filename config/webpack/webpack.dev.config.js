@@ -3,6 +3,6 @@ module.exports = {
   devtool: 'source-map',
   watch: true,
   watchOptions: {
-    ignored: ['node_modules', 'dist']
+    ignored: ['node_modules', 'console-weapp']
   }
 };

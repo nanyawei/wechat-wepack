@@ -8,7 +8,7 @@ git clone
 npm intall
 npm run dev
 npm run build // 打包
-//在小程序开发者工具中打开dist文件夹
+//在小程序开发者工具中打开console-weapp文件夹
 ```
 
 
