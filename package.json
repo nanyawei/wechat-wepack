@@ -32,6 +32,7 @@
     "eslint-config-booheefe": "1.2.8",
     "event-hooks-webpack-plugin": "^2.1.0",
     "file-loader": "^2.0.0",
+    "iview-weapp": "^2.0.0",
     "lint-staged": "^8.1.0",
     "node-sass": "^4.9.3",
     "ora": "^3.0.0",
@@ -55,10 +56,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BooheeFE/wechat-mina-webpack-template.git"
+    "url": "git+https://github.com/nanyawei/wechat-wepack.git"
   },
   "bugs": {
-    "url": "https://github.com/BooheeFE/wechat-mina-webpack-template/issues"
+    "url": "https://github.com/nanyawei/wechat-wepack/issues"
   },
-  "homepage": "https://github.com/BooheeFE/wechat-mina-webpack-template#readme"
+  "homepage": "https://github.com/nanyawei/wechat-wepack#readme"
 }
