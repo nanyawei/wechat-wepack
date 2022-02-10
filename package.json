@@ -34,7 +34,7 @@
     "file-loader": "^2.0.0",
     "iview-weapp": "^2.0.0",
     "lint-staged": "^8.1.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "ora": "^3.0.0",
     "postcss-loader": "^3.0.0",
     "rd": "^2.0.1",
