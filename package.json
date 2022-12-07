@@ -33,7 +33,7 @@
     "event-hooks-webpack-plugin": "^2.1.0",
     "file-loader": "^2.0.0",
     "iview-weapp": "^2.0.0",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^13.1.0",
     "node-sass": "^4.9.3",
     "ora": "^3.0.0",
     "postcss-loader": "^3.0.0",
